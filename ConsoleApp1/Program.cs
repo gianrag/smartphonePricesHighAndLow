@@ -83,5 +83,6 @@ class Program
         Console.WriteLine($"Il telefono della marca {celPiuCostoso.Marca} è più costoso con il prezzo di {celPiuCostoso.Costo} euro");
         Console.WriteLine($"Il telefono della marca {celMenoCostoso.Marca} è meno costoso con il prezzo di {celMenoCostoso.Costo} euro");
         Console.WriteLine($"Il costo medio dei telefoni è: {costoMedio} euro");
+
     }
 }
